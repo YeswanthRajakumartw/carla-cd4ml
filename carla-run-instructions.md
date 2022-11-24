@@ -7,9 +7,9 @@ List all the Conda env
 
      $ conda env list
 
-Choose p37
+Choose py37
 
-     $ conda activate p37
+     $ conda activate py37
 
 List all the docker images
 
